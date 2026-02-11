@@ -1,15 +1,38 @@
 # GoodQuality - Premium Fashion & Accessories E-commerce Website
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-blue?style=for-the-badge&logo=google-chrome)](https://5173-iwrhuirzj8oghaqob44wl-15287aac.us2.manus.computer)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Daytoday222/goodquality-ecommerce)
+[![Stars](https://img.shields.io/github/stars/Daytoday222/goodquality-ecommerce?style=for-the-badge)](https://github.com/Daytoday222/goodquality-ecommerce/stargazers)
+[![Issues](https://img.shields.io/github/issues/Daytoday222/goodquality-ecommerce?style=for-the-badge)](https://github.com/Daytoday222/goodquality-ecommerce/issues)
 
 A modern, responsive e-commerce website built with React and Tailwind CSS, featuring a comprehensive product catalog, secure payment options, and multi-platform compatibility.
 
-## 🌐 Live Demo
+## 🌐 View the Website
 
-**[🔗 View Live Website](https://5173-iwrhuirzj8oghaqob44wl-15287aac.us2.manus.computer)**
+### Option 1: Clone and Run Locally
+```bash
+# Clone the repository
+git clone https://github.com/Daytoday222/goodquality-ecommerce.git
+cd goodquality-ecommerce
 
-Experience the full functionality of the GoodQuality e-commerce website with our live demo. Browse products, explore categories, and test all features in real-time.
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Open http://localhost:5173 in your browser
+```
+
+### Option 2: Deploy to Hosting Service
+Deploy the `dist/` folder to any of these services:
+- **[Netlify](https://www.netlify.com/)** - Drag and drop deployment
+- **[Vercel](https://vercel.com/)** - Connect GitHub repository
+- **[GitHub Pages](https://pages.github.com/)** - Free hosting from GitHub
+- **[Cloudflare Pages](https://pages.cloudflare.com/)** - Fast global CDN
+
+### Quick Deploy Buttons
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Daytoday222/goodquality-ecommerce)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Daytoday222/goodquality-ecommerce)
 
 ## 🌟 Features
 
@@ -221,10 +244,12 @@ This project is created for GoodQuality and includes all necessary files for dep
 
 ## 🔗 Important Links
 
-- **Live Demo**: [View Website](https://5173-iwrhuirzj8oghaqob44wl-15287aac.us2.manus.computer)
 - **GitHub Repository**: [Source Code](https://github.com/Daytoday222/goodquality-ecommerce)
 - **Issues & Support**: [Issue Tracker](https://github.com/Daytoday222/goodquality-ecommerce/issues)
+- **Releases**: [Download Latest](https://github.com/Daytoday222/goodquality-ecommerce/releases)
 - **Documentation**: See included guides and documentation files
+- **Deploy to Netlify**: [One-Click Deploy](https://app.netlify.com/start/deploy?repository=https://github.com/Daytoday222/goodquality-ecommerce)
+- **Deploy to Vercel**: [One-Click Deploy](https://vercel.com/new/clone?repository-url=https://github.com/Daytoday222/goodquality-ecommerce)
 
 ---
 
